@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**ayesha0057/ayesha0057** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hey there! I'm Ayesha R, a web developer deeply passionate about crafting dynamic and efficient applications. With a solid background in computer science, I specialize in web development, cloud solutions, and AI. I enjoy solving complex problems and am constantly honing my skills to create innovative solutions that drive real-world impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ People are better together! Connect with me.
+
+- LinkedIn: [linkedin.com/in/codeczarina/](https://www.linkedin.com/in/codeczarina/)
+- GitHub: [github.com/ayesha0057](https://github.com/ayesha0057)
+
+  
+#### 🚀 Skills and Expertise
+- **Languages:** JavaScript, Python
+- **Web Development:** HTML, CSS, React, Node.js, Express.js
+- **Databases:** PostgreSQL, MongoDB
+- **Cloud Services:** AWS, Google Cloud
+- **Version Control:** Git, GitHub
+- **Other Tools:** Docker, Kubernetes, Jenkins
+
+
